@@ -1,0 +1,9 @@
+.courses{
+    display: flex;
+    padding: 20px;
+    margin: 20px;
+}
+
+.card-body{
+    margin:5px,5px;
+}
